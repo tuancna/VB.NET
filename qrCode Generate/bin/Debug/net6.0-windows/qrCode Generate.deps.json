@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "qrCode Generate/1.0.0": {
+        "dependencies": {
+          "MessagingToolkit.Barcode": "1.8.3.0"
+        },
+        "runtime": {
+          "qrCode Generate.dll": {}
+        }
+      },
+      "MessagingToolkit.Barcode/1.8.3.0": {
+        "runtime": {
+          "MessagingToolkit.Barcode.dll": {
+            "assemblyVersion": "1.8.3.0",
+            "fileVersion": "1.8.3.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "qrCode Generate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MessagingToolkit.Barcode/1.8.3.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

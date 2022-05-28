@@ -1,0 +1,90 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>qrCode_Generate</RootNamespace>
+    <StartupObject>Sub Main</StartupObject>
+    <UseWindowsForms>true</UseWindowsForms>
+    <MyType>WindowsForms</MyType>
+    <Authors>Chung Nguyen Anh Tuan</Authors>
+    <Product />
+    <Company />
+    <ApplicationIcon>Icons8-Windows-8-Ecommerce-Qr-Code.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Import Include="MessagingToolkit.Barcode" />
+    <Import Include="MessagingToolkit.Barcode.Aztec" />
+    <Import Include="MessagingToolkit.Barcode.Aztec.Decoder" />
+    <Import Include="MessagingToolkit.Barcode.Aztec.Detector" />
+    <Import Include="MessagingToolkit.Barcode.Aztec.Encoder" />
+    <Import Include="MessagingToolkit.Barcode.Client.Results" />
+    <Import Include="MessagingToolkit.Barcode.Common" />
+    <Import Include="MessagingToolkit.Barcode.Common.Detector" />
+    <Import Include="MessagingToolkit.Barcode.Common.Maths" />
+    <Import Include="MessagingToolkit.Barcode.Common.ReedSolomon" />
+    <Import Include="MessagingToolkit.Barcode.DataMatrix" />
+    <Import Include="MessagingToolkit.Barcode.DataMatrix.Decoders" />
+    <Import Include="MessagingToolkit.Barcode.DataMatrix.detector" />
+    <Import Include="MessagingToolkit.Barcode.DataMatrix.Encoder" />
+    <Import Include="MessagingToolkit.Barcode.Helper" />
+    <Import Include="MessagingToolkit.Barcode.MaxiCode" />
+    <Import Include="MessagingToolkit.Barcode.MaxiCode.Decoder" />
+    <Import Include="MessagingToolkit.Barcode.Multi" />
+    <Import Include="MessagingToolkit.Barcode.Multi.QRCode" />
+    <Import Include="MessagingToolkit.Barcode.Multi.QRCode.Detector" />
+    <Import Include="MessagingToolkit.Barcode.OneD" />
+    <Import Include="MessagingToolkit.Barcode.OneD.Rss" />
+    <Import Include="MessagingToolkit.Barcode.OneD.Rss.Expanded" />
+    <Import Include="MessagingToolkit.Barcode.OneD.Rss.Expanded.Decoders" />
+    <Import Include="MessagingToolkit.Barcode.Pdf417" />
+    <Import Include="MessagingToolkit.Barcode.Pdf417.Decoder" />
+    <Import Include="MessagingToolkit.Barcode.Pdf417.Decoder.Ec" />
+    <Import Include="MessagingToolkit.Barcode.Pdf417.Detector" />
+    <Import Include="MessagingToolkit.Barcode.Pdf417.Encoder" />
+    <Import Include="MessagingToolkit.Barcode.Provider" />
+    <Import Include="MessagingToolkit.Barcode.QRCode" />
+    <Import Include="MessagingToolkit.Barcode.QRCode.Decoder" />
+    <Import Include="MessagingToolkit.Barcode.QRCode.Detector" />
+    <Import Include="MessagingToolkit.Barcode.QRCode.Encoder" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="MessagingToolkit.Barcode">
+      <HintPath>D:\Extension.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="My Project\Application.Designer.vb">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Update="My Project\Resources.Designer.vb">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="My Project\Resources.resx">
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+
+</Project>

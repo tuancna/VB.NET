@@ -1,0 +1,20 @@
+C:\Users\tuanc\source\repos\qrCode Generate\obj\Debug\net6.0-windows\qrCode Generate.vbproj.AssemblyReference.cache
+C:\Users\tuanc\source\repos\qrCode Generate\obj\Debug\net6.0-windows\qrCode_Generate.qrCodeForm.resources
+C:\Users\tuanc\source\repos\qrCode Generate\obj\Debug\net6.0-windows\qrCode Generate.vbproj.GenerateResource.cache
+C:\Users\tuanc\source\repos\qrCode Generate\obj\Debug\net6.0-windows\qrCode Generate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuanc\source\repos\qrCode Generate\obj\Debug\net6.0-windows\qrCode Generate.AssemblyInfoInputs.cache
+C:\Users\tuanc\source\repos\qrCode Generate\obj\Debug\net6.0-windows\qrCode Generate.AssemblyInfo.vb
+C:\Users\tuanc\source\repos\qrCode Generate\obj\Debug\net6.0-windows\qrCode Generate.vbproj.CoreCompileInputs.cache
+C:\Users\tuanc\source\repos\qrCode Generate\bin\Debug\net6.0-windows\qrCode Generate.exe
+C:\Users\tuanc\source\repos\qrCode Generate\bin\Debug\net6.0-windows\qrCode Generate.deps.json
+C:\Users\tuanc\source\repos\qrCode Generate\bin\Debug\net6.0-windows\qrCode Generate.runtimeconfig.json
+C:\Users\tuanc\source\repos\qrCode Generate\bin\Debug\net6.0-windows\qrCode Generate.dll
+C:\Users\tuanc\source\repos\qrCode Generate\bin\Debug\net6.0-windows\qrCode Generate.pdb
+C:\Users\tuanc\source\repos\qrCode Generate\obj\Debug\net6.0-windows\qrCode Generate.dll
+C:\Users\tuanc\source\repos\qrCode Generate\obj\Debug\net6.0-windows\refint\qrCode Generate.dll
+C:\Users\tuanc\source\repos\qrCode Generate\obj\Debug\net6.0-windows\qrCode Generate.pdb
+C:\Users\tuanc\source\repos\qrCode Generate\obj\Debug\net6.0-windows\qrCode Generate.genruntimeconfig.cache
+C:\Users\tuanc\source\repos\qrCode Generate\obj\Debug\net6.0-windows\ref\qrCode Generate.dll
+C:\Users\tuanc\source\repos\qrCode Generate\obj\Debug\net6.0-windows\qrCode Generate.vbproj.CopyComplete
+C:\Users\tuanc\source\repos\qrCode Generate\obj\Debug\net6.0-windows\qrCode_Generate.Resources.resources
+C:\Users\tuanc\source\repos\qrCode Generate\bin\Debug\net6.0-windows\MessagingToolkit.Barcode.dll
