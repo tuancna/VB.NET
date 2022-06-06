@@ -4,5 +4,5 @@
 * Library: MessagingToolkit https://github.com/tuancna/VB.NET/raw/main/qrCode%20Generate/MessagingToolkit.Barcode.dll
 
 ## Usage:
-![QRCode Generator]([https://i.postimg.cc/9f5w8Kg6/Capture.jpg])
+![image](https://user-images.githubusercontent.com/75740562/172204243-55e61ed8-4ca2-4c54-a78f-91097ab0ecdc.png)
 * You can easily create and save QR Code as image with your custom text.
